@@ -5,9 +5,10 @@ Para este ejemplo de ha utilizado la API Rest de Posts del siguiente link: https
 Lo que se hace en el ejercicio es mostrar un listado de post mediante la llamada GET, y crear un nuevo Post mediante el POST.
 
 Conceptos utilizados:
-- ListView.
-- Abrir una Activity desde otra.
+- ListView: https://developer.android.com/reference/android/widget/ListView
+- Abrir una Activity desde otra: https://developer.android.com/training/basics/firstapp/starting-activity?hl=es-419
 - Utilizar libreria Retrofit para las llamadas a la API: https://square.github.io/retrofit/
+- Utilitzar listeners: https://guides.codepath.com/android/Creating-Custom-Listeners
 
 Se han añadido comentarios en el código para una mejor comprensión.
 
